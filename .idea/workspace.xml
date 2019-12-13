@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24ffc832-4dc2-41b4-b5d4-d6ca65528015" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UtkHnXcBQOaJwPYMYUbxQhfzA8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\study\javalearning\SpringMVCTry_1\src\main\java" />
+      <recent name="C:\study\javalearning\SpringMVCTry_1\src\main\webapp\WEB-INF" />
+      <recent name="C:\study\javalearning\SpringMVCTry_1\src\main\webapp\WEB-INF\jsp" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\study\javalearning\SpringMVCTry_1\src\main\webapp\WEB-INF\lib" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringMVCTry_1 [tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24ffc832-4dc2-41b4-b5d4-d6ca65528015" name="Default Changelist" comment="" />
+      <created>1576183193290</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576183193290</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1441" y="62" width="1089" height="747" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576183519390">
+      <screen x="-1920" y="7" width="1920" height="1040" />
+    </state>
+    <state x="-1441" y="62" width="1089" height="747" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680/-1920.7.1920.1040@0.0.1280.680" timestamp="1576183519390" />
+    <state width="1237" height="162" key="GridCell.Tab.0.bottom" timestamp="1576269464669">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="245" key="GridCell.Tab.0.bottom/0.0.1280.680/-1920.7.1920.1040@0.0.1280.680" timestamp="1576202818961" />
+    <state width="1237" height="162" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576269464669" />
+    <state width="1237" height="162" key="GridCell.Tab.0.center" timestamp="1576269464669">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="245" key="GridCell.Tab.0.center/0.0.1280.680/-1920.7.1920.1040@0.0.1280.680" timestamp="1576202818961" />
+    <state width="1237" height="162" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1576269464669" />
+    <state width="1237" height="162" key="GridCell.Tab.0.left" timestamp="1576269464669">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="245" key="GridCell.Tab.0.left/0.0.1280.680/-1920.7.1920.1040@0.0.1280.680" timestamp="1576202818961" />
+    <state width="1237" height="162" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1576269464669" />
+    <state width="1237" height="162" key="GridCell.Tab.0.right" timestamp="1576269464669">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="245" key="GridCell.Tab.0.right/0.0.1280.680/-1920.7.1920.1040@0.0.1280.680" timestamp="1576202818961" />
+    <state width="1237" height="162" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1576269464669" />
+    <state width="1237" height="249" key="GridCell.Tab.1.bottom" timestamp="1576268739501">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="249" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576268739501" />
+    <state width="1237" height="249" key="GridCell.Tab.1.center" timestamp="1576268739500">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="249" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1576268739500" />
+    <state width="1237" height="249" key="GridCell.Tab.1.left" timestamp="1576268739499">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="249" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1576268739499" />
+    <state width="1237" height="249" key="GridCell.Tab.1.right" timestamp="1576268739500">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="249" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1576268739500" />
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1576184483051">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680/-1920.7.1920.1040@0.0.1280.680" timestamp="1576184483051" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1576200216544">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680/-1920.7.1920.1040@0.0.1280.680" timestamp="1576200216544" />
+    <state width="647" height="347" key="XDebugger.FullValuePopup" timestamp="1576268360637">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="647" height="347" key="XDebugger.FullValuePopup/0.0.1280.680@0.0.1280.680" timestamp="1576268360637" />
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1576266825170">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680/-1920.7.1920.1040@0.0.1280.680" timestamp="1576202839717" />
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1576266825170" />
+    <state x="0" y="0" width="965" height="680" key="find.popup" timestamp="1576264921182">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" width="965" height="680" key="find.popup/0.0.1280.680/-1920.7.1920.1040@0.0.1280.680" timestamp="1576201189917" />
+    <state x="0" y="0" width="965" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1576264921182" />
+    <state x="303" y="1" key="search.everywhere.popup" timestamp="1576267740829">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1576267740829" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/demo/AppController.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/demo/AppController.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

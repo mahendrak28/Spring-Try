@@ -1,0 +1,5 @@
+demo\DAO\AppDAOImpl.class
+demo\model\User.class
+demo\AppController.class
+demo\config\AppConfig.class
+demo\DAO\AppDAO.class
